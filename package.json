@@ -1,12 +1,12 @@
 {
   "name": "blog-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic blog app where blog posts are rendered from the server side onto the client side",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Abhishek Jha",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
