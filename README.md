@@ -39,6 +39,11 @@ Welcome to the Blog-Website, a simple web application built using Node.js for th
 - **public/:** Contains the static frontend files.
 - **server.js:** Node.js backend logic and API routes.
 
+## API Routes
+
+- /api/posts: GET - Retrieve all blog posts.
+- /api/posts/:id: GET - Retrieve a specific blog post by ID.
+
 ### Contributing
 
 - Contributions are welcome! Feel free to open issues or pull requests.
